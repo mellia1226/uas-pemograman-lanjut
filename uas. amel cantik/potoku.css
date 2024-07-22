@@ -1,0 +1,30 @@
+.hanya-foto img{
+    width: 450px;
+    height:500px ;
+}
+.hanya-foto img{
+    top: 100px;
+    position: absolute;
+    padding: 20px;
+    right: 800px;
+
+}
+body{
+    background-image: linear-gradient(to right,#ffff0080,#ffc0cba2);
+}
+.aboutme{
+    right: 100px;
+    position: absolute;
+    padding: 30px;
+    max-width: 400px ;
+    top:200px;
+    
+}
+.aboutme h5{
+    font-size: 50px;
+    font-weight: bold;
+}
+.aboutme p{
+    font-size: 25px;
+    font-weight: bold;
+}
